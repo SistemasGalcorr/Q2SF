@@ -1,1 +1,0 @@
-select Id, Numero_da_Oportunidade__c, PropostaQuiver__c, Area_Formula__c, Name FROM Opportunity
